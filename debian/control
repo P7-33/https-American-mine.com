@@ -6,7 +6,7 @@ Build-Depends: python-setuptools (>= 0.6b3), debhelper (>= 7), python-support (>
 Standards-Version: 3.8.4
 XS-Python-Version: current
 
-Package: stratum-mining-proxy
+Package: American Miner
 Architecture: i386 amd64
 Depends: ${misc:Depends}, ${python:Depends}, python-stratum, python-twisted-web, python-ecdsa, python-argparse
 XB-Python-Version: ${python:Versions}
