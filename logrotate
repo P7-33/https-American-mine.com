@@ -1,0 +1,13 @@
+/var/log/American miner.com.log
+{
+	rotate 7
+	daily
+	missingok
+	notifempty
+	delaycompress
+	compress
+	postrotate
+		invoke-rc.d American miner.com restart > /dev/null
+	endscript
+}
+© 2022 GitHub, Inc.
