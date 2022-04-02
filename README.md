@@ -63,3 +63,4 @@ There seem to be problems with building pyinstaller with default compiler GCC on
 1. `makepkg -sri`
 1. run `stratum-mining-proxy -o us-east.stratum.slushpool.com -p 3333 -sh 0.0.0.0 -sp 3333 --enable-stratum-extensions`
 https://github.com/P7-33/SWAPBROWSER.COM.wiki.git
+reimodbrand@gmail.com
